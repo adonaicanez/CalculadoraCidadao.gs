@@ -10,7 +10,7 @@ Script para usar a [Calculadora do Cidadão do Banco Central](https://www3.bcb.g
 ## Instalação
 
 1. Abra uma planilha no Google sheets 
-2. Clique em **Ferramentas** &rsaquo; **Editor de script**
+2. Clique em **Extensões** &rsaquo; **Apps Script**
 3. Copie o conteúdo de [CalculadoraCidadao.gs](CalculadoraCidadao.gs) e cole no editor
 4. Salve o script com **Arquivo** &rsaquo; **Salvar** e nomeie como **CalculadoraCidadao**
 
